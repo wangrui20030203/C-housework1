@@ -1,0 +1,24 @@
+# 编译产物
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.idb
+
+# Visual Studio 本地配置与缓存
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.VC.db
+
+# 临时文件
+*.log
+*.tlog
+
+# 本机专用的上传脚本（含绝对路径，不上传）
+upload.bat
